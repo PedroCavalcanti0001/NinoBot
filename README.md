@@ -1,1 +1,1 @@
-A a simple discord bot using dart!
+A simple discord bot using dart!
