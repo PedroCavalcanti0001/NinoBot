@@ -9,3 +9,4 @@ environment:
 
 dependencies:
   nyxx: '>=0.30.0'
+  intl: '^0.15.8'
